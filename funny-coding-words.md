@@ -23,7 +23,7 @@ E
 
 F
 
-G
+G [GNU](https://www.gnu.org/gnu/thegnuproject.html) "GNU is an operating system that is free software—that is, it respects users' freedom. The development of GNU made it possible to use a computer without software that would trample your freedom."
 
 H
 
